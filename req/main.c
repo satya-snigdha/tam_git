@@ -10,10 +10,10 @@ Write your code in this editor and press "Run" button to compile and execute it.
 
 int main()
 {
-    int num1,num2;
+    int num1,num2,num3;
     int res;
-    printf("Enter 2 numbers");
-    scanf("%d %d",&num1,&num2);
-    res=num1+num2;
+    printf("Enter 3 numbers");
+    scanf("%d %d",&num1,&num2,&num3);
+    res=num1+num2+num3;
     printf("Result %d",res);
 }
