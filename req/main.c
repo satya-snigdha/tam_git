@@ -8,6 +8,7 @@ Write your code in this editor and press "Run" button to compile and execute it.
 
 #include <stdio.h>
 
+// make changes
 int multiplication(int num1, int num2)
 {
     int result=0;
